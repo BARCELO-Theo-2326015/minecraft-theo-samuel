@@ -8,11 +8,11 @@ Minecraft est un jeu originalement développé par Notch avec son studio Mojang,
 # Informations diverses
 - Développé par : Mojang Studios, Microsoft
 - Crée par Markus person (dit Notch)
-# Dernières versions
+## Dernières versions
 Java : 1.20.2
 
 Bedrock : 1.20.31
-# Site Web
+## Site Web
 [Site web officiel](https://www.minecraft.net)
 
 # Concept
