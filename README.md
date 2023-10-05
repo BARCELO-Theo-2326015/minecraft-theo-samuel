@@ -40,8 +40,8 @@ Les versions Java sont les premières a avoir existé, ce sont les versions dite
 |--------------- |--------------| ----|
 | Pré-classique | 10 au 16 mai 2009 | C'est les versions prototypes de Minecraft, très basiques, ces versions ont existé pendant la première phase de développement du jeu |
 | Classique | 17 mai au 23 décembre 2009 | C'est une version aussi basique, c'est la version ou les modes phares du jeu ont été ajoutés, le mode Créatif et Survie |
-| Indev || 23 décembre 2009 a 29 février 2010 | C'est aussi une phase de développement, mais cette fois ci la deuxieme, une version qui a vu le jour suite a la demande de joueurs qui voulaient tester les nouvelles fonctionnalités |
-| Infdev || 27 février au 29 juin 2010 | C'est la première version de Minecraft qui a une génération de monde infinie, dans la troisième phase de développement, elle n'est jouable qu'en survie |
+| Indev | 23 décembre 2009 a 29 février 2010 | C'est aussi une phase de développement, mais cette fois ci la deuxieme, une version qui a vu le jour suite a la demande de joueurs qui voulaient tester les nouvelles fonctionnalités |
+| Infdev | 27 février au 29 juin 2010 | C'est la première version de Minecraft qui a une génération de monde infinie, dans la troisième phase de développement, elle n'est jouable qu'en survie |
 | Alpha | 29 juin au 10 décembre 2010 | C'est une version semi-complète de Minecraft en terme de développement, elle a été mise a jour très fréquemment |
 | Bêta | 10 décembre 2010 au 18 novembre 2011 | C'est la dernière version de test de Minecraft, juste avant sa sortie stable avec la version officielle, c'est avec cette version que Minecraft en 2010 eu le Indie of the Year 2010, c'est a dire le meilleur jeu indépendant de l'année |
 | Officielle | Depuis le 18 novembre 2011 | C'est la version définitive de Minecraft, stable et complète, celle qu'on a encore aujourd'hui |
