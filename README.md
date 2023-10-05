@@ -3,6 +3,8 @@
 <img src="https://logos-marques.com/wp-content/uploads/2020/01/Minecraft-Logo-2013.png" style="width: 350px;">
 
 # Minecraft
+Minecraft est un jeu originalement développé par Notch avec son studio Mojang, le 17 mai 2009 et sorti officiellement le 18 novembre 2011, mais maintenant développé par Mojang studos, racheté par Microsoft le 15 septembre 2014.
+
 - Développé par : Mojang Studios, Microsoft
 - Crée par Markus person (dit Notch)
 # Dernières versions
@@ -11,8 +13,6 @@ Java : 1.20.2
 Bedrock : 1.20.31
 # Site Web
 [Site web officiel](https://www.minecraft.net)
-
-Minecraft est un jeu originalement développé par Notch avec son studio Mojang, le 17 mai 2009 et sorti officiellement le 18 novembre 2011, mais maintenant développé par Mojang studos, racheté par Microsoft le 15 septembre 2014.
 
 # Concept
 Le concept du jeu est plutot simple, il s'agit d'un monde ouvert ou, selon les modes de jeux on survie ou on crée (le mode survie peut aussi servir a créer mais les ressources seront limités), c'est un jeu a la durée de vie illimité avec un monde infini, ou les joueurs peuvent exprimer leur créativité et faire ce qu'ils veulent.
