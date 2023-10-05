@@ -5,6 +5,7 @@
 # Minecraft
 Minecraft est un jeu originalement développé par Notch avec son studio Mojang, le 17 mai 2009 et sorti officiellement le 18 novembre 2011, mais maintenant développé par Mojang studos, racheté par Microsoft le 15 septembre 2014.
 
+# Informations diverses
 - Développé par : Mojang Studios, Microsoft
 - Crée par Markus person (dit Notch)
 # Dernières versions
