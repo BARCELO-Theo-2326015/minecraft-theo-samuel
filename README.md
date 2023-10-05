@@ -21,7 +21,6 @@ Le concept du jeu est plutot simple, il s'agit d'un monde ouvert ou, selon les m
 Le jeu possède un aspect solo ou les joueurs peuvent jouer tout seul dans le monde, mais il possède également un aspect multijoueur ou de nombreux serveurs se sont développés, notamment en grande partie des mini-jeux, du pvpfaction, de la survie ou bien du semi-rp (roleplay)
 
 # Modes de jeu
-
 Ses 3 principaux modes de jeux sont
 * créatif
   * Ce mode de jeu consiste a avoir des ressources illimités, pour pouvoir créer des constructions a volonté.
@@ -32,7 +31,9 @@ Ses 3 principaux modes de jeux sont
 
 # Différentes versions
 Ci-dessous, les différentes dates de sorties des versions, et leurs descriptions.
-**Les versions Java**
+
+## Les versions Java
+
 Les versions Java sont les premières a avoir existé, ce sont les versions dites originales du jeu.
 
 | Version | Dates | Description |
@@ -44,7 +45,9 @@ Les versions Java sont les premières a avoir existé, ce sont les versions dite
 | Alpha | 29 juin au 10 décembre 2010 | C'est une version semi-complète de Minecraft en terme de développement, elle a été mise a jour très fréquemment |
 | Bêta | 10 décembre 2010 au 18 novembre 2011 | C'est la dernière version de test de Minecraft, juste avant sa sortie stable avec la version officielle, c'est avec cette version que Minecraft en 2010 eu le Indie of the Year 2010, c'est a dire le meilleur jeu indépendant de l'année |
 | Officielle | Depuis le 18 novembre 2011 | C'est la version définitive de Minecraft, stable et complète, celle qu'on a encore aujourd'hui |
-**Les versions consoles**
+
+## Les versions consoles
+
 Ces versions n'existent pour la plupart plus aujourd'hui, ayant été remplacés par la version Bedrock, a quelques exceptions près.
 
 | Version | Dates |
@@ -57,17 +60,23 @@ Ces versions n'existent pour la plupart plus aujourd'hui, ayant été remplacés
 | Wii U | 17 décembre 2015 au 19 mars 2019 |
 | Nintendo switch | 11 mai 2017 au 21 juin 2018 |
 | New 3DS | 15 septembre 2017 au 15 janvier 2019 |
-**Version Bedrock**
+
+## Version Bedrock
+
 La version Bedrock est une version sortie pour être sur plusieurs consoles, pc en même temps, a l'origine c'était la version pocket edition (portable) sur téléphone ou tablette mais celle ci s'est étendue.
 
 | Version | Dates | Description |
-| --------------- |---------------| -----:
+| --------------- |---------------| ----- |
 | Alpha | 16 aout 2011 au 19 décembre 2016 | C'est la version de test de Minecraft Bedrock autrefois pocket |
 | Officielle | 19 décembre 2016 au 20 septembre 2017 | C'est la version avant le changement a Bedrock, encore pocket edition |
 | Bedrock | 20 septembre 2017 a aujourd'hui | C'est la version qui a apporté le multiformes |
-**Version spéciale Pi**
+
+## Version spéciale Pi
+
 C'est une version sortie pour le Raspberry Pi, très légère, avec moins de fonctionnalité, sortie le 11 février 2013
-**Les autres versions**
+
+## Les autres versions
+
 Il existe d'autres versions que la version principale Minecraft avec les différents modes de jeux tel que Créatif, Survie et Aventure, ce sont les versions :
 * Minecraft  Dungeons
   * Cette version est un jeu a part entière de Minecraft, mais sur un autre axe, celui de l'action, c'est un jeu rôleplay avec une histoire propre, sorti le 26 mai 2020 sur Windows, il est ensuite sorti sur d'autres versions, développé par Mojang et Double Eleven, publié par Xbox Games. Le joueur est confronté a des phases ou il peut contrôler un personnage, et des phases de choix ou le joueur doit se confronter a différents choix de réponses, d'actions qui influencera sa partie.
