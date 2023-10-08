@@ -3,23 +3,23 @@
 <img src="https://logos-marques.com/wp-content/uploads/2020/01/Minecraft-Logo-2013.png" style="width: 350px;">
 
 # Minecraft
-Minecraft est un jeu originalement développé par Notch avec son studio Mojang, le 17 mai 2009 et sorti officiellement le 18 novembre 2011, mais maintenant développé par Mojang studos, racheté par Microsoft le 15 septembre 2014.
+Minecraft est un jeu originalement développé par **Notch** avec son studio **Mojang**, le **17 mai 2009** et sorti officiellement le **18 novembre 2011**, mais maintenant développé par **Mojang studios**, racheté par **Microsoft** le **15 septembre 2014**.
 
 # Informations diverses
 - Développé par : Mojang Studios, Microsoft
 - Crée par Markus person (dit Notch)
 ## Dernières versions
-Java : 1.20.2
+*Java* : 1.20.2
 
-Bedrock : 1.20.31
+*Bedrock* : 1.20.31
 ## Site Web
 [Site web officiel](https://www.minecraft.net)
 
 # Concept
-Le concept du jeu est plutot simple, il s'agit d'un monde ouvert ou, selon les modes de jeux on survie ou on crée (le mode survie peut aussi servir a créer mais les ressources seront limités), c'est un jeu a la durée de vie illimité avec un monde infini, ou les joueurs peuvent exprimer leur créativité et faire ce qu'ils veulent.
+Le concept du jeu est plutot simple, il s'agit d'un monde ouvert ou, selon les modes de jeux on survie ou on crée *(le mode survie peut aussi servir a créer mais les ressources seront limités)*, c'est un jeu a la durée de vie illimité avec un monde infini, ou les joueurs peuvent exprimer leur créativité et faire ce qu'ils veulent.
 
 # Multiplayer
-Le jeu possède un aspect solo ou les joueurs peuvent jouer tout seul dans le monde, mais il possède également un aspect multijoueur ou de nombreux serveurs se sont développés, notamment en grande partie des mini-jeux, du pvpfaction, de la survie ou bien du semi-rp (roleplay)
+Le jeu possède un aspect solo ou les joueurs peuvent jouer tout seul dans le monde, mais il possède également un aspect multijoueur ou de nombreux serveurs se sont développés, notamment en grande partie des mini-jeux, du pvpfaction, de la survie ou bien du semi-rp *(roleplay)*
 
 # Modes de jeu
 Ses 3 principaux modes de jeux sont
@@ -83,3 +83,7 @@ Il existe d'autres versions que la version principale Minecraft avec les différ
   * Cette version est un jeu a part entière de Minecraft, mais sur un autre axe, celui de l'action, c'est un jeu rôleplay avec une histoire propre, sorti le 26 mai 2020 sur Windows, il est ensuite sorti sur d'autres versions, développé par Mojang et Double Eleven, publié par Xbox Games. Le joueur est confronté a des phases ou il peut contrôler un personnage, et des phases de choix ou le joueur doit se confronter a différents choix de réponses, d'actions qui influencera sa partie.
 * Minecraft Legends
   * Ce jeu est également un jeu de stratégie, d'action, développé par Mojang Studios, Blackbird Interactive et publié par Xbox Games Studio sur Windows et Xbox et Mojang Studios sur les autres platformes. Il est sorti le 18 avril 2023, il est un peu du même genre que Dungeons.
+
+# Sources
+- [Minecraft Fandom](https://minecraft.fandom.com/fr/wiki/Minecraft_Wiki)
+- [Site web officiel](https://www.minecraft.net)
